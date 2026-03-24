@@ -58,4 +58,4 @@ Como meu fluxo é via CLI, dependo de comandos fundamentais para análise e trou
 * `grep`: Para filtrar os dados essenciais.
 * `sort -u`: Para remover duplicatas e limpar as wordlists.
 
-*(Troubleshooting: Se alguma ferramenta não for encontrada ao rodar os comandos, é necessário ajustar o PATH do Linux)*
+*(Troubleshooting: Se alguma ferramenta não for encontrada ao rodar os comandos, é necessário ajustar o PATH do Linux)* 
