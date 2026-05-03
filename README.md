@@ -1,5 +1,5 @@
 # Bug-Bounty-Methodology
-Minha metodologia, comandos de terminal e anotações práticas para Bug Bounty na sky (um alvo so o rep consta)
+Minha metodologia, comandos de terminal e anotações práticas para Bug Bounty na sky
 
 # 🐛 Minha Metodologia de Bug Bounty (Testes Manuais)
 
